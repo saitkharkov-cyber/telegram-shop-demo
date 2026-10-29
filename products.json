@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Power Bank 20000 mAh", "price": 1299, "emoji": "🔋", "description": "Швидке заряджання, USB-C, компактний корпус."},
+  {"id": 2, "name": "Бездротові навушники AirSound", "price": 899, "emoji": "🎧", "description": "Bluetooth 5.3, кейс із заряджанням, до 24 годин роботи."},
+  {"id": 3, "name": "Автотримач MagDrive", "price": 549, "emoji": "🚗", "description": "Магнітне кріплення для смартфона, поворот 360°."},
+  {"id": 4, "name": "LED-лампа DeskLight", "price": 749, "emoji": "💡", "description": "3 режими світла, регулювання яскравості, USB-живлення."},
+  {"id": 5, "name": "Кабель USB-C 100W", "price": 299, "emoji": "🔌", "description": "Посилене плетіння, швидка зарядка до 100W, 2 м."},
+  {"id": 6, "name": "Міні-зволожувач AirMini", "price": 649, "emoji": "💧", "description": "Тихий режим, підсвічування, живлення від USB."}
+]
